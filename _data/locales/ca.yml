@@ -1,0 +1,31 @@
+ca:
+  locale_name: Català
+  nav:
+    about: Quant a
+    contribute: Col·labora
+  index:
+    lead: El programari de codi obert el fan persones com vós. Apreneu a iniciar i fer créixer el vostre projecte.
+    opensourcefriday: Avui és divendres! Invertiu unes poques hores a col·laborar amb el programari que tant utilitzeu i estimeu
+  article:
+    table_of_contents: Taula de continguts
+    back_to_all_guides: Torna a totes les guies
+    related_guides: Guies relacionades
+  footer:
+    contribute:
+      heading: Col·laboreu
+      description: Voleu fer un suggeriment? El contingut és de codi lliure. Ajudeu-nos a millorar-lo.
+      button: Col·labora
+    subscribe:
+      heading: Estigueu en contacte
+      description: Assabenteu-vos abans que ningú dels últims trucs i recursos de codi lliure de GitHub.
+      label: Adreça electrònica
+      button: Subscriu-me
+    byline:
+      #[code], [love], and [github] will be replaced by octicons
+      format: "[code] amb [love] per [github] i [friends]"
+      #Label for code octicon
+      code_label: codi
+      #Label for love octicon
+      love_label: amor
+      #Label for the contributors link
+      friends_label: amistats
