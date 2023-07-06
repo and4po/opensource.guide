@@ -25,21 +25,21 @@ Per què la gent contribueix al codi obert? Per moltes raons!
 
 ### Milloreu el programari que feu servir
 
-Molts contribuents comencen sent usuaris del programari a què contribueixen. Quan trobeu un error en un programari de codi obert que feu servir, potser voldreu mirar el codi per veure si podeu solucionar-lo pel vostre compte. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Molts contribuents comencen sent usuaris del programari a què contribueixen. Quan trobeu un error en un programari de codi obert que feu servir, potser voldreu mirar el codi per veure si podeu solucionar-lo pel vostre compte. Si aquest és el cas, contribuir amb el pedaç és la millor manera d'assegurar-vos que els vostres amics (i vós mateix quan actualitzeu el programari a la nova versió) podreu beneficiar-vos-en.
 
-### Improve existing skills
+### Milloreu les vostres habilitats
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Tant si és programar, dissenyar d'interfícies d'usuari, disseny gràfic, escriure o organitzar. Si voleu practicar, hi ha una tasca per a vosaltres en un projecte de codi obert.
 
-### Meet people who are interested in similar things
+### Coneixeu gent que està interessada en coses similars
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Els projectes de codi obert amb comunitats càlides i acollidores fan que la gent torni durant anys. Molta gent forja amistats de per tota la vida per les seves participacions en el codi obert, tant si és topant-se a conferències o xats a altes hores de la nit sobre burritos.
 
-### Find mentors and teach others
+### Trobeu mentors i ensenyeu als altres
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Treballar amb altres persones en un projecte compartit vol dir que haureu d'explicar com feu les coses, així com demanar ajuda a altra gent. Els actes d'aprendre i ensenyar poden ser activitats molt satisfactòries per totes dues parts.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Construïu programaris públics que us ajudin a construir una reputació (i una carrera)
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
