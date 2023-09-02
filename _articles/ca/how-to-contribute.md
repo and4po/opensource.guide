@@ -41,7 +41,7 @@ Treballar amb altres persones en un projecte compartit vol dir que haureu d'expl
 
 ### Construïu programaris públics que us ajudin a construir una reputació (i una carrera)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+ By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
 ### Learn people skills
 
@@ -120,7 +120,7 @@ Even if you like to write code, other types of contributions are a great way to 
 ### Do you like helping others code?
 
 * Review code on other people's submissions
-* Write tutorials for how a project can be used
+    * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### You don't just have to work on software projects!
